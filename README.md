@@ -2,7 +2,7 @@
 I'm a Software Engineering student passionate about Full-Stack Development and Artificial Intelligence. I enjoy building modern, scalable web applications that solve real-world problems while continuously learning new technologies.
 
 
-## 🌐 Socials:## 🌐 Socials:
+## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-umer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umerzohaibumer@gmail.com)
 
 # 💻 Tech Stack
