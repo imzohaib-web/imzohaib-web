@@ -1,9 +1,9 @@
-# 💫 About Me:
-Full Stack Developer | React, Node.js, Express, MongoDB mySQL  AI Integration | Creating User-Friendly & AI based Web Applications
+# Hi, I'm Zohaib Umer 👋
+I'm a Software Engineering student passionate about Full-Stack Development and Artificial Intelligence. I enjoy building modern, scalable web applications that solve real-world problems while continuously learning new technologies.
 
 
 ## 🌐 Socials:## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zohaib_umer_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-umer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umerzohaibumer@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-umer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umerzohaibumer@gmail.com)
 
 # 💻 Tech Stack
 
@@ -49,8 +49,6 @@ Full Stack Developer | React, Node.js, Express, MongoDB mySQL  AI Integration | 
 
 ### 📱 Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
