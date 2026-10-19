@@ -73,30 +73,6 @@ const zohaib = {
 
 <br/>
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-## 🚀 Featured Projects
-
-<!-- Replace repo names below with your own best repositories -->
-<div align="center">
-
-<a href="https://github.com/imzohaib-web/YOUR-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imzohaib-web&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" alt="Project 1" />
-</a>
-<a href="https://github.com/imzohaib-web/YOUR-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imzohaib-web&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" alt="Project 2" />
-</a>
-
-<a href="https://github.com/imzohaib-web/YOUR-REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imzohaib-web&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" alt="Project 3" />
-</a>
-<a href="https://github.com/imzohaib-web/YOUR-REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imzohaib-web&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" alt="Project 4" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════ GOALS ═══════════════ -->
 ## 🎯 Currently
 
