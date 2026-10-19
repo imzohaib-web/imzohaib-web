@@ -1,62 +1,121 @@
-# Hi, I'm Zohaib Umer 👋
-I'm a Software Engineering student passionate about Full-Stack Development and Artificial Intelligence. I enjoy building modern, scalable web applications that solve real-world problems while continuously learning new technologies.
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Zohaib%20Umer&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Enthusiast&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Zohaib Umer banner" />
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-umer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umerzohaibumer@gmail.com)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Turning+ideas+into+production-ready+products;Full-Stack+%C3%97+AI+%E2%80%94+always+learning;Software+Engineering+student+%40+COMSATS+Wah" alt="Typing animation" />
+</a>
 
-# 💻 Tech Stack
+<br/>
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+<a href="https://www.linkedin.com/in/zohaib-umer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:umerzohaibumer@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/imzohaib-web"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=imzohaib-web&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br/>
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👨‍💻 About Me
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+```js
+const zohaib = {
+  role: "Full-Stack Developer Intern @ EziTech",
+  studying: "BS Software Engineering · COMSATS University Islamabad, Wah Campus",
+  location: "Wah Cantt, Pakistan 🇵🇰",
+  focus: ["Full-Stack Web Development", "Artificial Intelligence", "Scalable Architecture"],
+  currentlyLearning: ["Docker", "Cloud Deployment"],
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+};
+```
 
-### 🤖 AI & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+> *I enjoy building modern, scalable web applications that solve real-world problems, while continuously learning new technologies.*
 
-### 📱 Currently Learning
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imzohaib-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
 
----
-[![](https://komarev.com/ghpvc/?username=imzohaib-web&icon=0&color=0)](https://visitcount.itsvg.in)
+| | |
+|:--|:--|
+| **🌐 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" alt="frontend" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="backend" /> |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="databases" /> |
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="languages" /> |
+| **☁️ Cloud & Deploy** | <img src="https://skillicons.dev/icons?i=aws,netlify&theme=dark" alt="cloud" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" alt="Render" /> |
+| **🧰 Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="tools" /> |
+| **🤖 AI / ML** | <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn&theme=dark" alt="ai" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" alt="Pandas" /> |
+| **📚 Learning** | <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker" /> |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=imzohaib-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imzohaib-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imzohaib-web&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imzohaib-web&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&title_color=a78bfa" alt="Contribution graph" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+## 🚀 Featured Projects
+
+<!-- Replace repo names below with your own best repositories -->
+<div align="center">
+
+<a href="https://github.com/imzohaib-web/YOUR-REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imzohaib-web&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" alt="Project 1" />
+</a>
+<a href="https://github.com/imzohaib-web/YOUR-REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imzohaib-web&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" alt="Project 2" />
+</a>
+
+<a href="https://github.com/imzohaib-web/YOUR-REPO-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imzohaib-web&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" alt="Project 3" />
+</a>
+<a href="https://github.com/imzohaib-web/YOUR-REPO-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imzohaib-web&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" alt="Project 4" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ GOALS ═══════════════ -->
+## 🎯 Currently
+
+- 🔭 Building production-grade full-stack apps with the MERN stack
+- 🌱 Learning **Docker** and cloud deployment workflows
+- 🤖 Exploring practical **AI integrations** in web products
+- 🤝 Open to collaborating on **full-stack & AI projects**
+
+<br/>
+
+<!-- ═══════════════ QUOTE + FOOTER ═══════════════ -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+
+<br/><br/>
+
+**⭐ If you like what you see, drop a star on my repos, it keeps me building!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
