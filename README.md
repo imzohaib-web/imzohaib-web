@@ -29,7 +29,7 @@ const zohaib = {
   location: "Wah Cantt, Pakistan 🇵🇰",
   focus: ["Full-Stack Web Development", "Artificial Intelligence", "Scalable Architecture"],
   currentlyLearning: ["Docker", "Cloud Deployment"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
+ 
 };
 ```
 
